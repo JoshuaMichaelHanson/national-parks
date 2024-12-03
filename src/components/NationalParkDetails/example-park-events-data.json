@@ -1,0 +1,270 @@
+{
+  "pagesize": "50",
+  "pagenumber": "1",
+  "total": "4",
+  "errors": [],
+  "data": [
+    {
+      "categoryid": "1",
+      "category": "Special Event",
+      "eventid": "106069",
+      "date": "2024-12-12",
+      "datestart": "2024-12-12",
+      "dateend": "2024-12-12",
+      "recurrencedatestart": "2024-12-12",
+      "recurrencedateend": "2024-12-14",
+      "latitude": "47.960688",
+      "longitude": "-89.686567",
+      "isrecurring": "false",
+      "isallday": "false",
+      "isregresrequired": "false",
+      "isfree": "true",
+      "regresurl": "",
+      "regresinfo": "",
+      "infourl": "",
+      "feeinfo": "",
+      "timeinfo": "",
+      "title": "Dark Sky Festival",
+      "contactname": "",
+      "contacttelephonenumber": "",
+      "contactemailaddress": "",
+      "description": "<p><em>Northern Nights, Starry Skies</em> will be screened in the Heritage Center Classroom throughout the day.</p>",
+      "location": "Heritage Center Classroom",
+      "tags": [],
+      "types": [
+        "Festival"
+      ],
+      "recurrencerule": "",
+      "sitecode": "grpo",
+      "sitetype": "park",
+      "datetimecreated": "2024-11-23T09:41:47.567",
+      "datetimeupdated": "2024-11-23T16:23:39.707",
+      "createuser": "gspoto@nps.gov",
+      "updateuser": "gspoto@nps.gov",
+      "risdpoiid": "47ff6f10-b3e0-5020-b4ec-49f0669dba29",
+      "times": [
+        {
+          "timestart": "09:00 AM",
+          "timeend": "04:00 PM",
+          "sunrisestart": "false",
+          "sunsetend": "false"
+        }
+      ],
+      "dates": [
+        "2024-12-12"
+      ],
+      "images": [],
+      "imageidlist": "",
+      "subjectname": "",
+      "parkfullname": "Grand Portage National Monument",
+      "portalname": "",
+      "organizationname": "",
+      "id": "7EB8A23F-F33E-3FA8-788798281A3E71EA"
+    },
+    {
+      "categoryid": "1",
+      "category": "Special Event",
+      "eventid": "106071",
+      "date": "2024-12-13",
+      "datestart": "2024-12-13",
+      "dateend": "2024-12-13",
+      "recurrencedatestart": "2024-12-13",
+      "recurrencedateend": null,
+      "latitude": "47.960688",
+      "longitude": "-89.686567",
+      "isrecurring": "false",
+      "isallday": "false",
+      "isregresrequired": "false",
+      "isfree": "true",
+      "regresurl": "",
+      "regresinfo": "",
+      "infourl": "",
+      "feeinfo": "",
+      "timeinfo": "",
+      "title": "Dark Sky Festival",
+      "contactname": "",
+      "contacttelephonenumber": "",
+      "contactemailaddress": "",
+      "description": "<p><em>Northern Nights, Starry Skies</em> will be screened in the Heritage Center Classroom throughout the day.</p>",
+      "location": "Heritage Center Classroom",
+      "tags": [],
+      "types": [
+        "Festival"
+      ],
+      "recurrencerule": "",
+      "sitecode": "grpo",
+      "sitetype": "park",
+      "datetimecreated": "2024-11-23T10:03:16.34",
+      "datetimeupdated": "2024-11-23T16:23:27.453",
+      "createuser": "gspoto@nps.gov",
+      "updateuser": "gspoto@nps.gov",
+      "risdpoiid": "47ff6f10-b3e0-5020-b4ec-49f0669dba29",
+      "times": [
+        {
+          "timestart": "09:00 AM",
+          "timeend": "04:00 PM",
+          "sunrisestart": "false",
+          "sunsetend": "false"
+        }
+      ],
+      "dates": [
+        "2024-12-13"
+      ],
+      "images": [],
+      "imageidlist": "",
+      "subjectname": "",
+      "parkfullname": "Grand Portage National Monument",
+      "portalname": "",
+      "organizationname": "",
+      "id": "7F7D4983-0BC6-10DF-A9209FEC2B72B8D0"
+    },
+    {
+      "categoryid": "1",
+      "category": "Special Event",
+      "eventid": "106070",
+      "date": "2024-12-13",
+      "datestart": "2024-12-13",
+      "dateend": "2024-12-13",
+      "recurrencedatestart": "2024-12-13",
+      "recurrencedateend": null,
+      "latitude": "47.960688",
+      "longitude": "-89.686567",
+      "isrecurring": "false",
+      "isallday": "false",
+      "isregresrequired": "false",
+      "isfree": "true",
+      "regresurl": "",
+      "regresinfo": "",
+      "infourl": "https://www.nps.gov/articles/000/northern-nights-starry-skies.htm",
+      "feeinfo": "",
+      "timeinfo": "",
+      "title": "Spirits Dancing - The Night Sky, Indigenous Knowledge & Cultural Connections to the Cosmos",
+      "contactname": "",
+      "contacttelephonenumber": "",
+      "contactemailaddress": "",
+      "description": "<p>Travis Novitsky will talk about and sign his book \"Spirts Dancing.\"</p>",
+      "location": "Heritage Center Classroom",
+      "tags": [],
+      "types": [
+        "Talk"
+      ],
+      "recurrencerule": "",
+      "sitecode": "grpo",
+      "sitetype": "park",
+      "datetimecreated": "2024-11-23T09:57:07.74",
+      "datetimeupdated": null,
+      "createuser": "gspoto@nps.gov",
+      "updateuser": "",
+      "risdpoiid": "47ff6f10-b3e0-5020-b4ec-49f0669dba29",
+      "times": [
+        {
+          "timestart": "06:30 PM",
+          "timeend": "08:00 PM",
+          "sunrisestart": "false",
+          "sunsetend": "false"
+        }
+      ],
+      "dates": [
+        "2024-12-13"
+      ],
+      "images": [
+        {
+          "imageid": "45373",
+          "path": "/common/uploads/event_calendar/7F09F190-D9BD-933C-A02CC663CCA83CE6.jpg",
+          "url": "/common/uploads/event_calendar/7F09F190-D9BD-933C-A02CC663CCA83CE6.jpg",
+          "title": "",
+          "altText": "Green and pink glowing light with a lighter blue swath in a dark sky reflected in a lake.",
+          "caption": "Milky Way",
+          "credit": "Photo courtesy of Travis Novisky",
+          "id": "",
+          "ordinal": "1"
+        },
+        {
+          "imageid": "45374",
+          "path": "/common/uploads/event_calendar/7F208AC1-E42B-EFA8-1AB4C96F4554FA36.jpg",
+          "url": "/common/uploads/event_calendar/7F208AC1-E42B-EFA8-1AB4C96F4554FA36.jpg",
+          "title": "",
+          "altText": "Tree silhouettes against a night sky with stars and a purple green glow.",
+          "caption": "Aurora",
+          "credit": "Photo courtesy of Travis Novitsky",
+          "id": "",
+          "ordinal": "2"
+        },
+        {
+          "imageid": "45375",
+          "path": "/common/uploads/event_calendar/7F34AE22-F670-E7DD-EF373A873386C3ED.jpg",
+          "url": "/common/uploads/event_calendar/7F34AE22-F670-E7DD-EF373A873386C3ED.jpg",
+          "title": "",
+          "altText": "Swirling light green and pink glow in a dark sky above an arch-shaped island.",
+          "caption": "Aurora",
+          "credit": "Photo Courtesy of Travis Novitsky",
+          "id": "",
+          "ordinal": "3"
+        }
+      ],
+      "imageidlist": "45373,45374,45375",
+      "subjectname": "",
+      "parkfullname": "Grand Portage National Monument",
+      "portalname": "",
+      "organizationname": "",
+      "id": "7F450A5F-AFF3-F3D1-DEEF78A03FF5A786"
+    },
+    {
+      "categoryid": "1",
+      "category": "Special Event",
+      "eventid": "106072",
+      "date": "2024-12-14",
+      "datestart": "2024-12-14",
+      "dateend": "2024-12-14",
+      "recurrencedatestart": "2024-12-14",
+      "recurrencedateend": null,
+      "latitude": "47.960688",
+      "longitude": "-89.686567",
+      "isrecurring": "false",
+      "isallday": "false",
+      "isregresrequired": "false",
+      "isfree": "true",
+      "regresurl": "",
+      "regresinfo": "",
+      "infourl": "",
+      "feeinfo": "",
+      "timeinfo": "",
+      "title": "Dark Sky Festival",
+      "contactname": "",
+      "contacttelephonenumber": "",
+      "contactemailaddress": "",
+      "description": "<p><em>Northern Nights, Starry Skies</em> will be screened in the Heritage Center Classroom throughout the day.</p>",
+      "location": "Heritage Center Classroom",
+      "tags": [],
+      "types": [
+        "Festival"
+      ],
+      "recurrencerule": "",
+      "sitecode": "grpo",
+      "sitetype": "park",
+      "datetimecreated": "2024-11-23T10:06:06.223",
+      "datetimeupdated": "2024-11-23T16:24:38.78",
+      "createuser": "gspoto@nps.gov",
+      "updateuser": "gspoto@nps.gov",
+      "risdpoiid": "47ff6f10-b3e0-5020-b4ec-49f0669dba29",
+      "times": [
+        {
+          "timestart": "09:00 AM",
+          "timeend": "04:00 PM",
+          "sunrisestart": "false",
+          "sunsetend": "false"
+        }
+      ],
+      "dates": [
+        "2024-12-14"
+      ],
+      "images": [],
+      "imageidlist": "",
+      "subjectname": "",
+      "parkfullname": "Grand Portage National Monument",
+      "portalname": "",
+      "organizationname": "",
+      "id": "7F973500-0424-4E2B-749B5AAD2CE70DA2"
+    }
+  ]
+}

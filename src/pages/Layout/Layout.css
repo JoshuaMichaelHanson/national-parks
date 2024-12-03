@@ -2,6 +2,7 @@
 nav {
     background-color: #f0f0f0; /* Example background color */
     padding: 10px;
+    z-index: 2;
 }
 
 nav ul {
@@ -76,6 +77,7 @@ nav a {
     /* Toggle the menu when the hamburger is clicked */
     nav.active ul {
         display: block;
+        z-index: 2;
     }
 
     /* Animation for the hamburger icon when active */
