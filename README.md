@@ -79,20 +79,20 @@ nps.gov API.
 
 ## Todo
 ### 12/03/2024
--[] Still want to make the MN page generic and then pick state with a nice icon  
--[ ] Update the main state page to have more options from the API with counts on links
--[ ] Add generic nature picture when one does not exist for entries
--[ ] Change landing page
--[ ] Change routes to indicate National Parks vs State Parks
--[ ] Contact me page using TinyDB or other PWA type DB
--[ ] Host on my new VPS using [Dokploy](https://dokploy.com/)
--[ ] Generate HTTPs cert and give this a sub-domain - Let's Encrypt / Dokploy
--[ ] [traefik.me -> Free Link](https://docs.dokploy.com/docs/core/domains/generated)
--[ ] Setup Auto Deploy - From GitHub, hooks?
--[ ] Hook up local DB option to real server DB - Dokploy
--[ ] Setup DB backups - Dokploy
--[ ] Play with Docker Compose - Dokploy
--[ ] Update Vite to get rid of Critical / High Warnings after npm install
+- [ ] Still want to make the MN page generic and then pick state with a nice icon  
+- [ ] Update the main state page to have more options from the API with counts on links
+- [ ] Add generic nature picture when one does not exist for entries
+- [ ] Change landing page
+- [ ] Change routes to indicate National Parks vs State Parks
+- [ ] Contact me page using TinyDB or other PWA type DB
+- [ ] Host on my new VPS using [Dokploy](https://dokploy.com/)
+- [ ] Generate HTTPs cert and give this a sub-domain - Let's Encrypt / Dokploy
+- [ ] [traefik.me -> Free Link](https://docs.dokploy.com/docs/core/domains/generated)
+- [ ] Setup Auto Deploy - From GitHub, hooks?
+- [ ] Hook up local DB option to real server DB - Dokploy
+- [ ] Setup DB backups - Dokploy
+- [ ] Play with Docker Compose - Dokploy
+- [ ] Update Vite to get rid of Critical / High Warnings after npm install
 
 ## Credits
 This project was initially started from
