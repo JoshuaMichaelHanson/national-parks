@@ -79,7 +79,7 @@ nps.gov API.
 
 ## Todo
 ### 12/03/2024
--[ ] Still want to make the MN page generic and then pick state with a nice icon  
+-[] Still want to make the MN page generic and then pick state with a nice icon  
 -[ ] Update the main state page to have more options from the API with counts on links
 -[ ] Add generic nature picture when one does not exist for entries
 -[ ] Change landing page
