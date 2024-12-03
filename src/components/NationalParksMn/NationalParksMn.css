@@ -6,12 +6,16 @@
     border: 1px solid #ccc;
     padding: 15px;
     gap: 1em; /* Consistent spacing between the image and text */
+    justify-content: center; /* Center content horizontally */
 }
 
 .park-content {
     display: flex; /* Enable flexbox for responsiveness */
-    width: 100%;  /* Ensure content occupies full width */
+    width: 95%;  /* Ensure content occupies full width */
+    max-width: 1200px; /* Set a maximum width */
+    gap: 2rem; /* Increased gap between image and details */
 }
+
 
 .park-image {
     flex: 1;  /* Allow image to shrink but not grow beyond its content */
@@ -26,6 +30,21 @@
 
 .park-details {
     flex: 3;       /* Allow details to take remaining space and grow */
+}
+
+.park-details ul {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
+    gap: 0.5rem;  /* Adjust spacing between list items */
+}
+
+.park-details li {
+    margin-right: 10px; /* Add spacing between list items */
+    list-style: none;  /* Remove default list item markers */
+    margin: 0;       /* Reset default margin */
+    padding: 5px 10px;  /* Add padding around each item */
+    border-radius: 5px;  /* Make items slightly rounded */
+    background-color: #e0e0e0;
 }
 
 
