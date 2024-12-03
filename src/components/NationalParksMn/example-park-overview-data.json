@@ -1,0 +1,465 @@
+{
+  "total": "6",
+  "limit": "1",
+  "start": "0",
+  "data": [
+    {
+      "id": "E463E13F-FCD4-41B3-AEF3-BA3199E04399",
+      "url": "https://www.nps.gov/grpo/index.htm",
+      "fullName": "Grand Portage National Monument",
+      "parkCode": "grpo",
+      "description": "Travel into the past to discover the present. Explore the partnership between the Grand Portage Anishinaabe and the North West Company during the North American fur trade. Experience the sights and smells of a bustling depot reconstructed in its historic location. See how it shaped co-management with the NPS today. Follow pathways to the past to imagine a drum echo over Gichigami - Lake Superior.",
+      "latitude": "47.99294217",
+      "longitude": "-89.75573031",
+      "latLong": "lat:47.99294217, long:-89.75573031",
+      "activities": [
+        {
+          "id": "09DF0950-D319-4557-A57E-04CD2F63FF42",
+          "name": "Arts and Culture"
+        },
+        {
+          "id": "C59E231D-55FC-4B37-BC5B-FF76383951B5",
+          "name": "Craft Demonstrations"
+        },
+        {
+          "id": "FAED7F97-3474-4C21-AB42-FB0768A2F826",
+          "name": "Cultural Demonstrations"
+        },
+        {
+          "id": "A59947B7-3376-49B4-AD02-C0423E08C5F7",
+          "name": "Camping"
+        },
+        {
+          "id": "4A58AF13-E8FB-4530-B41A-97DF0B0C77B7",
+          "name": "Backcountry Camping"
+        },
+        {
+          "id": "907E8125-15E4-483C-8EAD-B9FA1E85C6F8",
+          "name": "Canoe or Kayak Camping"
+        },
+        {
+          "id": "7CFF5F03-5ECC-4F5A-8572-75D1F0976C0C",
+          "name": "Group Camping"
+        },
+        {
+          "id": "1DFACD97-1B9C-4F5A-80F2-05593604799E",
+          "name": "Food"
+        },
+        {
+          "id": "C6D3230A-2CEA-4AFE-BFF3-DC1E2C2C4BB4",
+          "name": "Picnicking"
+        },
+        {
+          "id": "B33DC9B6-0B7D-4322-BAD7-A13A34C584A3",
+          "name": "Guided Tours"
+        },
+        {
+          "id": "A0631906-9672-4583-91DE-113B93DB6B6E",
+          "name": "Self-Guided Tours - Walking"
+        },
+        {
+          "id": "BFF8C027-7C8F-480B-A5F8-CD8CE490BFBA",
+          "name": "Hiking"
+        },
+        {
+          "id": "7C37B79B-D02D-49EB-9020-3DB8299B748A",
+          "name": "Backcountry Hiking"
+        },
+        {
+          "id": "45261C0A-00D8-4C27-A1F8-029F933A0D34",
+          "name": "Front-Country Hiking"
+        },
+        {
+          "id": "B204DE60-5A24-43DD-8902-C81625A09A74",
+          "name": "Living History"
+        },
+        {
+          "id": "A8650547-1A30-4222-86C3-A7660A829670",
+          "name": "Reenactments"
+        },
+        {
+          "id": "4D224BCA-C127-408B-AC75-A51563C42411",
+          "name": "Paddling"
+        },
+        {
+          "id": "256543C7-4322-48B3-8978-765E89AA9431",
+          "name": "Canoe or Kayak Camping"
+        },
+        {
+          "id": "DF4A35E0-7983-4A3E-BC47-F37B872B0F25",
+          "name": "Junior Ranger Program"
+        },
+        {
+          "id": "F9B1D433-6B86-4804-AED7-B50A519A3B7C",
+          "name": "Skiing"
+        },
+        {
+          "id": "EAB1EBDE-5B72-493F-8F8F-0EE5B1724436",
+          "name": "Cross-Country Skiing"
+        },
+        {
+          "id": "0B685688-3405-4E2A-ABBA-E3069492EC50",
+          "name": "Wildlife Watching"
+        },
+        {
+          "id": "5A2C91D1-50EC-4B24-8BED-A2E11A1892DF",
+          "name": "Birdwatching"
+        },
+        {
+          "id": "0C0D142F-06B5-4BE1-8B44-491B90F93DEB",
+          "name": "Park Film"
+        },
+        {
+          "id": "C8F98B28-3C10-41AE-AA99-092B3B398C43",
+          "name": "Museum Exhibits"
+        },
+        {
+          "id": "24380E3F-AD9D-4E38-BF13-C8EEB21893E7",
+          "name": "Shopping"
+        },
+        {
+          "id": "467DC8B8-0B7D-436D-A026-80A22358F615",
+          "name": "Bookstore and Park Store"
+        },
+        {
+          "id": "43800AD1-D439-40F3-AAB3-9FB651FE45BB",
+          "name": "Gift Shop and Souvenirs"
+        }
+      ],
+      "topics": [
+        {
+          "id": "1170EEB6-5070-4760-8E7D-FF1A98272FAD",
+          "name": "Commerce"
+        },
+        {
+          "id": "A010EADF-78B8-4526-B0A4-70B0E0B3470E",
+          "name": "Trade"
+        },
+        {
+          "id": "12EA2B56-17EC-410A-A10D-BFBA87A0669B",
+          "name": "Explorers and Expeditions"
+        },
+        {
+          "id": "A1BAF33E-EA84-4608-A888-4CEE9541F027",
+          "name": "Native American Heritage"
+        },
+        {
+          "id": "0D00073E-18C3-46E5-8727-2F87B112DDC6",
+          "name": "Animals"
+        },
+        {
+          "id": "957EF2BD-AC6C-4B7B-BD9A-87593ADC6691",
+          "name": "Birds"
+        },
+        {
+          "id": "1608649A-E7D7-4529-BD83-074C90F9FB68",
+          "name": "Fish"
+        },
+        {
+          "id": "41B1A0A3-11FF-4F55-9CB9-034A7E28B087",
+          "name": "Forests and Woodlands"
+        },
+        {
+          "id": "F0F97E32-2F29-41B4-AF98-9FBE8DAB36B1",
+          "name": "Geology"
+        },
+        {
+          "id": "1CF1F6BB-A037-445B-8CF2-81428E50CE52",
+          "name": "Lakes"
+        },
+        {
+          "id": "A7359FC4-DAD8-45F5-AF15-7FF62F816ED3",
+          "name": "Night Sky"
+        },
+        {
+          "id": "B5E62BF4-5AE6-4100-8DE1-66652943FAEC",
+          "name": "Aurora Borealis"
+        },
+        {
+          "id": "A155238F-0DD2-4610-9B87-05FCE1C59283",
+          "name": "River and Riparian"
+        },
+        {
+          "id": "4244F489-6813-4B7A-9D0C-20CE098C8FFF",
+          "name": "Rock Landscapes and Features"
+        },
+        {
+          "id": "9C9FCBB6-360B-4743-8155-6F9341CBE01B",
+          "name": "Scenic Views"
+        },
+        {
+          "id": "5BE55D7F-BDB6-4E3D-AC35-2D8EBB974417",
+          "name": "Trails"
+        },
+        {
+          "id": "596BAA6D-F66B-4348-8433-FEFF35A8005E",
+          "name": "Water Trails"
+        },
+        {
+          "id": "1365C347-952C-475A-B755-731DD523C195",
+          "name": "Wetlands"
+        },
+        {
+          "id": "B85866E2-0897-4000-9040-605CA335804F",
+          "name": "Wilderness"
+        }
+      ],
+      "states": "MN",
+      "contacts": {
+        "phoneNumbers": [
+          {
+            "phoneNumber": "(218) 475-0123",
+            "description": "",
+            "extension": "",
+            "type": "Voice"
+          },
+          {
+            "phoneNumber": "(218) 475-0174",
+            "description": "",
+            "extension": "",
+            "type": "Fax"
+          },
+          {
+            "phoneNumber": "(218) 475-0123",
+            "description": "",
+            "extension": "",
+            "type": "TTY"
+          }
+        ],
+        "emailAddresses": [
+          {
+            "description": "",
+            "emailAddress": "grpo_information@nps.gov"
+          }
+        ]
+      },
+      "entranceFees": [],
+      "entrancePasses": [],
+      "fees": [],
+      "directionsInfo": "Traveling northeast or southwest on MN Hwy 61 visitors will see signs alerting the approach to Grand Portage National Monument. A right turn exit lane or left turn from Hwy 61 at the Grand Portage Trading Post will take visitors onto Casino Road. Turn left at the first stop sign from Casino Road to Mile Creek Road. About 3/4 mile on Mile Creek Road, look for the large wooden entrance sign. Turn left up the short hill into the Heritage Center parking lot.",
+      "directionsUrl": "http://www.nps.gov/grpo/planyourvisit/directions.htm",
+      "operatingHours": [
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "thursday": "Closed"
+              },
+              "startDate": "2025-11-28",
+              "name": "Thanksgiving Day",
+              "endDate": "2025-11-28"
+            },
+            {
+              "exceptionHours": {
+                "monday": "Closed"
+              },
+              "startDate": "2024-12-25",
+              "name": "Christmas Day",
+              "endDate": "2024-12-25"
+            },
+            {
+              "exceptionHours": {
+                "monday": "Closed"
+              },
+              "startDate": "2025-01-01",
+              "name": "New Year's Day",
+              "endDate": "2025-01-01"
+            },
+            {
+              "exceptionHours": {
+                "monday": "Closed"
+              },
+              "startDate": "2025-01-20",
+              "name": "Birthday of Martin Luther King, Jr.",
+              "endDate": "2025-01-20"
+            },
+            {
+              "exceptionHours": {
+                "monday": "Closed"
+              },
+              "startDate": "2025-02-17",
+              "name": "Washington's Birthday",
+              "endDate": "2025-02-17"
+            },
+            {
+              "exceptionHours": {
+                "friday": "Closed"
+              },
+              "startDate": "2025-11-11",
+              "name": "Veterans Day",
+              "endDate": "2025-11-11"
+            }
+          ],
+          "description": "The Heritage Center and Trails are open year-round. The Historic Depot opens for the season Memorial Day weekend in May through Indigenous People's Day in mid-October.",
+          "standardHours": {
+            "wednesday": "9:00AM - 4:00PM",
+            "monday": "9:00AM - 4:00PM",
+            "thursday": "9:00AM - 4:00PM",
+            "sunday": "Closed",
+            "tuesday": "9:00AM - 4:00PM",
+            "friday": "9:00AM - 4:00PM",
+            "saturday": "9:00AM - 4:00PM"
+          },
+          "name": "Heritage Center and Trails"
+        },
+        {
+          "exceptions": [
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2025-11-28",
+              "name": "Thanksgiving Day",
+              "endDate": "2025-11-28"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2024-12-25",
+              "name": "Christmas Day",
+              "endDate": "2024-12-25"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2025-01-01",
+              "name": "New Year's Day",
+              "endDate": "2025-01-01"
+            },
+            {
+              "exceptionHours": {},
+              "startDate": "2025-01-20",
+              "name": "Birthday of Martin Luther King, Jr.",
+              "endDate": "2025-01-20"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2025-02-17",
+              "name": "Washington's Birthday",
+              "endDate": "2025-02-17"
+            },
+            {
+              "exceptionHours": {
+                "wednesday": "Closed",
+                "monday": "Closed",
+                "thursday": "Closed",
+                "sunday": "Closed",
+                "tuesday": "Closed",
+                "friday": "Closed",
+                "saturday": "Closed"
+              },
+              "startDate": "2025-11-11",
+              "name": "Veterans Day",
+              "endDate": "2025-11-11"
+            }
+          ],
+          "description": "The Historic Site is open from Memorial Day weekend, holidays included, through Indigenous Peoples Day (Columbus Day).",
+          "standardHours": {
+            "wednesday": "Closed",
+            "monday": "Closed",
+            "thursday": "Closed",
+            "sunday": "Closed",
+            "tuesday": "Closed",
+            "friday": "Closed",
+            "saturday": "Closed"
+          },
+          "name": "Historic Depot"
+        }
+      ],
+      "addresses": [
+        {
+          "postalCode": "55605",
+          "city": "Grand Portage",
+          "stateCode": "MN",
+          "countryCode": "US",
+          "provinceTerritoryCode": "",
+          "line1": "170 Mile Creek Road",
+          "type": "Physical",
+          "line3": "",
+          "line2": ""
+        },
+        {
+          "postalCode": "55605",
+          "city": "Grand Portage",
+          "stateCode": "MN",
+          "countryCode": "US",
+          "provinceTerritoryCode": "",
+          "line1": "P.O. Box 426",
+          "type": "Mailing",
+          "line3": "",
+          "line2": ""
+        }
+      ],
+      "images": [
+        {
+          "credit": "NPS Photo",
+          "title": "Mount Rose Trail overlooks Historic Depot & Grand Portage Bay",
+          "altText": "Stockade fence and log building overlooking Lake Superior",
+          "caption": "Beautiful scenary welcomes Fall visitors to Grand Portage.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7C2F07-1DD8-B71B-0B85AFDB9962EAE1.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Ojibwe Village (Anishinaabe Odena)",
+          "altText": "Birch bark lodges among trees.",
+          "caption": "The Ojibwe Village is located in the Historic Depot",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7C8EA4-1DD8-B71B-0B4BF6FB13E9E98D.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Seneca Sunflowers Canoe Warehouse",
+          "altText": "Sunflowers blossoms in front of log building",
+          "caption": "Colorful blossoms in the Three Sister's Garden",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7C4D12-1DD8-B71B-0B0DC781CF2D7501.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Historic Depot, Hat Point",
+          "altText": "Three log buildings with Lake and point of land in background.",
+          "caption": "Fall is a great time to hike the Mount Rose Trail",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7C8B5E-1DD8-B71B-0BA20EF8040D873E.jpg"
+        },
+        {
+          "credit": "NPS Photo",
+          "title": "Historic Depot From Mount Rose",
+          "altText": "Log buildings, stockade fence and dock near Lake.",
+          "caption": "Fall is a great time to hike to the mount Rose overlook.",
+          "url": "https://www.nps.gov/common/uploads/structured_data/3C7C8D39-1DD8-B71B-0BF3949196825188.jpg"
+        }
+      ],
+      "weatherInfo": "Short, warm summers and long, cold winters define the climate of northern Minnesota. Average range of summer temperature is from 55°F to 78°F in July and average range of winter temperatures is from –11°F to 12°F in January. Average annual precipitation in Grand Portage, MN is about 32 inches.",
+      "name": "Grand Portage",
+      "designation": "National Monument",
+      "multimedia": [],
+      "relevanceScore": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+/* src/components/NationalParkDetails/NationalParkDetails.css */
+.event-card {
+    display: flex;               /* Arrange image and details side by side */
+    margin-bottom: 20px;      /* Add spacing between event cards */
+    border: 1px solid #ccc;      /* Add a border */
+    padding: 15px;             /* Add padding */
+}
+
+
+.event-image {
+    flex: 1;                    /* Allow image to take up space */
+    margin-right: 20px;         /* Add spacing between image and details */
+}
+
+.event-image img {
+    max-width: 200px;           /* Limit image width */
+    max-height: 200px;          /* Limit image height */
+}
+
+.event-details {
+    flex: 2;                   /* Details take up more space than image */
+}

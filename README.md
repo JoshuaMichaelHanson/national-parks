@@ -1,26 +1,15 @@
 <h1 align="center">
-  Vite Template React
+  National Parks - Vite / React 18
 </h1>
 
-<p align="center">
-  <a href="https://github.com/SafdarJamal/vite-template-react/releases">
-    <img src="https://img.shields.io/github/v/release/SafdarJamal/vite-template-react" alt="GitHub Release (latest by date)" />
-  </a>
-  <a href="https://github.com/SafdarJamal/vite-template-react/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/SafdarJamal/vite-template-react" alt="License" />
-  </a>
-</p>
-
-<p align="center">
-    A <a href="https://vitejs.dev">Vite</a> + <a href="https://react.dev">React</a> starter template.
-</p>
-
-![Vite Template React](https://github.com/SafdarJamal/vite-template-react/assets/48409548/4b1eb99e-01b8-4752-91c0-76930e7948c1)
+Example site using React 18, Vite, and the nps.gov API.  
+In the end will have Browser based DB for contact me page
 
 ## Folder Structure
-
-No configuration or complicated folder structures, just the files you need to build your app:
-
+     
+Run tree command to regenerate this folder structure or     
+npm install -D markdown-notes-tree    
+markdown-notes-tree
 ```
 vite-template-react
 ├── node_modules
@@ -44,11 +33,11 @@ vite-template-react
 
 ## Development
 
-To get a local copy of the code, clone it using git:
+To get a local copy of the code, clone it using npx (or degit):
 
 ```
-git clone https://github.com/SafdarJamal/vite-template-react.git
-cd vite-template-react
+npx http://where-ever-i-upload-this-to-github.git my-project-name
+cd my-project-name
 ```
 
 Make it your own:
@@ -62,7 +51,7 @@ git commit -m "Initial commit"
 Install dependencies:
 
 ```
-npm i
+npm install
 ```
 
 Now, you can start a local web server by running:
@@ -73,7 +62,7 @@ npm start
 
 And then open http://localhost:3000 to view it in the browser.
 
-#### Available Scripts
+### Available Scripts
 
 In this project, you can run the following scripts:
 
@@ -84,10 +73,32 @@ In this project, you can run the following scripts:
 | npm run build | Builds the app for production to the `dist` folder.     |
 | npm run serve | Serves the production build from the `dist` folder.     |
 
-## Credits
+## What makes it special
+Joshua M. Hanson built this using a combination of techniques and the help of the  
+nps.gov API.
 
+## Todo
+### 12/03/2024
+-[ ] Still want to make the MN page generic and then pick state with a nice icon  
+-[ ] Update the main state page to have more options from the API with counts on links
+-[ ] Add generic nature picture when one does not exist for entries
+-[ ] Change landing page
+-[ ] Change routes to indicate National Parks vs State Parks
+-[ ] Contact me page using TinyDB or other PWA type DB
+-[ ] Host on my new VPS using [Dokploy](https://dokploy.com/)
+-[ ] Generate HTTPs cert and give this a sub-domain - Let's Encrypt / Dokploy
+-[ ] [traefik.me -> Free Link](https://docs.dokploy.com/docs/core/domains/generated)
+-[ ] Setup Auto Deploy - From GitHub, hooks?
+-[ ] Hook up local DB option to real server DB - Dokploy
+-[ ] Setup DB backups - Dokploy
+-[ ] Play with Docker Compose - Dokploy
+-[ ] Update Vite to get rid of Critical / High Warnings after npm install
+
+## Credits
+This project was initially started from
+git clone https://github.com/SafdarJamal/vite-template-react.git  
 Vite Template React is built and maintained by [Safdar Jamal](https://safdarjamal.github.io).
 
 ## License
-
+Since this is on GitHub I guess feel free to use it for fun  
 This project is licensed under the terms of the [MIT license](https://github.com/SafdarJamal/vite-template-react/blob/main/LICENSE).
