@@ -7,14 +7,21 @@ import './NationalParksMn.css';
 const NationalParksMn = () => {
     const [parks, setParks] = useState([]);
     const apiKey = import.meta.env.VITE_NATIONAL_PARKS_API_KEY;
+    const corsProxyUrl = import.meta.env.VITE_CORS_PROXY_URL;
+    const corsProxyApiKey = import.meta.env.VITE_CORS_PROXY_API_KEY;
 
 
     useEffect(() => {
         const fetchParks = async () => {
             try {
                 const response = await fetch(
-                    `https://developer.nps.gov/api/v1/parks?stateCode=MN&limit=5&api_key=${apiKey}`,
-                    { headers: { accept: 'application/json' } }
+                    `${corsProxyUrl}/https://developer.nps.gov/api/v1/parks?stateCode=MN&limit=5&api_key=${apiKey}`,
+                    {
+                        headers: {
+                            accept: 'application/json',
+                            'x-api-key': corsProxyApiKey
+                        }
+                    }
                 );
 
 

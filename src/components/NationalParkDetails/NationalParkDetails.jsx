@@ -7,23 +7,32 @@ const NationalParkDetails = () => {
     const { parkCode } = useParams();
     const [parkEvents, setParkEvents] = useState([]);
     const apiKey = import.meta.env.VITE_NATIONAL_PARKS_API_KEY;
+    const corsProxyUrl = import.meta.env.VITE_CORS_PROXY_URL;
+    const corsProxyApiKey = import.meta.env.VITE_CORS_PROXY_API_KEY;
 
     // https://www.nps.gov/common/uploads/event_calendar/7F09F190-D9BD-933C-A02CC663CCA83CE6.jpg
     useEffect(() => {
         const fetchParkEvents = async () => {
             try {
+                console.log(parkCode);
                 const response = await fetch(
-                    `https://developer.nps.gov/api/v1/events?parkCode=${parkCode}&api_key=${apiKey}`,
-                    { headers: { accept: 'application/json' } }
+                    `${corsProxyUrl}/https://developer.nps.gov/api/v1/events?parkCode=${parkCode}&api_key=${apiKey}`,
+                    {
+                        headers: {
+                            accept: 'application/json',
+                            'x-api-key': corsProxyApiKey
+                        }
+                    }
                 );
                 if (!response.ok) {
                     throw new Error(`HTTP error! status: ${response.status}`);
                 }
                 const data = await response.json();
+                console.log(data);
                 setParkEvents(data.data);
             } catch (error) {
                 console.error('Error fetching park events:', error);
-                setParkEvents([]); // Set to empty array to handle the error and prevent further issues.
+                setParkEvents([]); // Set to an empty array to handle the error and prevent further issues.
             }
         };
 
