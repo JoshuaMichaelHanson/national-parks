@@ -2,7 +2,7 @@
   National Parks - Vite / React 19
 </h1>
 
-Example site using React 18, Vite, and the nps.gov API.  
+Example site using React 19, Vite, and the nps.gov API.  
 In the end will have Browser based DB for contact me page
 
 ## Folder Structure
