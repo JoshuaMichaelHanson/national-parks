@@ -2,7 +2,7 @@
 nixPkgs = ["nodejs_22", "nginx"]
 
 [phases.build]
-cmds = ["npm run build", "cp nginx.conf /etc/nginx/conf.d/default.conf"]
+cmds = ["npm run build", "mkdir -p /etc/nginx/conf.d", "cp nginx.conf /etc/nginx/conf.d/default.conf"]
 
 [start]
 cmd = "nginx -g 'daemon off;'"
